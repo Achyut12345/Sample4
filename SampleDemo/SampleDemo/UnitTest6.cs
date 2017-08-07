@@ -6,6 +6,9 @@ namespace SampleDemo
     [TestClass]
     public class UnitTest6
     {
+        /// <summary>
+        /// Test method 
+        /// </summary>
         [TestMethod]
         public void TestMethod1()
         {
