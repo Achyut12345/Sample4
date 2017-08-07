@@ -12,6 +12,7 @@ namespace SampleDemo
         [TestMethod]
         public void TestMethod1()
         {
+            //Comments Added
             Console.WriteLine("Test case 6");
         }
     }
