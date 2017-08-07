@@ -11,7 +11,7 @@ namespace SampleDemo
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestLogin()
         {
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://darent82.crm.dynamics.com/main.aspx");
