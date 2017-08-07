@@ -9,6 +9,7 @@ namespace SampleTest
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
