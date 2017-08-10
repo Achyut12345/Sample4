@@ -9,9 +9,13 @@ namespace SampleDemo
     [TestClass]
     public class UnitTest2
     {
+        /// <summary>
+        /// Test method summary
+        /// </summary>
         [TestMethod]
         public void TestMethod1()
         {
+
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://darent82.crm.dynamics.com/main.aspx");
 
