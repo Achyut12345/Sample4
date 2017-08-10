@@ -7,7 +7,7 @@ namespace SampleDemo
     public class UnitTest3
     {
         /// <summary>
-        /// 
+        /// Test method summary
         /// </summary>
         [TestMethod]
         public void TestMethod1()
